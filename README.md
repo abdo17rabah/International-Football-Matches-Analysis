@@ -25,5 +25,5 @@ results.csv includes the following columns:
 * Reda BENYOUB  
 * Abderrafii RABAH 
 * Sophie PHOUANGSY  
-* MARTIN Jordan 
+* Jordan MARTIN  
 
